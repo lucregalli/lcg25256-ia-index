@@ -1,1 +1,1 @@
-# lcg25256-ia-index
+# ia-index
